@@ -32,5 +32,5 @@ As long as the embed code is set to Masonry, which most should be, you shouldn't
 1. Go to Cornerstone > Theme Options 
 2. Click the CSS button and switch to the Global CSS tab.
 3. Comment out the existing EzyEvents custom CSS. Each site should be similar but will have slight variations.
-4. Add the updated CSS from style.css
+4. Add the [updated CSS from style.css](style.css)
 5. The font type, size, colour and tile background colour will all need to be updated
