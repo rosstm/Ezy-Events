@@ -100,6 +100,7 @@ div.ezywebevents-heading {
     	font-weight: 600 !important;      
     	color:  rgb(208, 155, 44) !important; 
   	text-transform: none !important;
+	padding:0 !important;
 }
 
 .ezywebevents-text {    
