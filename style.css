@@ -1,7 +1,7 @@
 /* Events Slider */
 
 .event_details {
-	background: rgba(20, 50, 91, 0.5) !important; /* Background Colour & Transparency */
+	background: rgba(0, 0, 0, 0.5) !important; /* Background Colour & Transparency */
   	/* Shouldn't need to change any below values */
 	display: flex;
 		flex-direction: column;
