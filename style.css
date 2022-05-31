@@ -121,6 +121,8 @@ div.ezywebevents-heading {
 
 /* Homepage Tile Layout */
 
+.homepage_events h2.title { display:none; }
+
 .homepage_events div.ezywebevents-heading {
 	overflow-x: hidden;
 	overflow-y: hidden;
