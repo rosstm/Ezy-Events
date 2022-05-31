@@ -71,12 +71,14 @@
 	}
   
 	.a8-carousel-item .event_details > h3 {
-    		font-size: 23px !important;
+    		font-size: 15px !important;
+		font-family: 'Montserrat' !important;
+		text-transform: uppercase !important;
+		line-height: 1.4 !important;
 	}
   
   	.event_details {
-  		height:50% !important;
-  		max-height:50% !important;
+  		min-height:60px;
 	}
 }
 
